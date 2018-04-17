@@ -1,0 +1,13 @@
+body{
+    background: url(camera2.jpg) no-repeat center fixed;
+    background-size: cover
+}
+
+.camera2{
+        margin: auto;
+        position: absolute;
+}
+
+h1{
+    color: white
+}
